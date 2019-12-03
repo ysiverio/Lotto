@@ -1,0 +1,5 @@
+-Incluir el play fall
+es como el parlet pero solo se permiten apuestas de dos numeros, se paga por los últimos dos corridos en el mismo orden en que salgan. Se paga po defecto 4000 x 1
+
+- Incluir jugada de la centena sola
+es como el fijo pero numeros de una cifra y se toma el valor que salga de la centena la parte de alante.

@@ -1,0 +1,4 @@
+Para la gestion de trazas (version 2.3.1)
+Crear la tabla d las trazas,
+tb_trazas(id, fecha, horaInicioM, horaFinM, horaInicioT, horaFinT,
+horaInicioMApp, horaFinMApp, horaInicioTApp, horaFinTApp, incidencia)
