@@ -5,3 +5,5 @@ es como el parlet pero solo se permiten apuestas de dos numeros, se paga por los
 es como el fijo pero numeros de una cifra y se toma el valor que salga de la centena la parte de alante.
 
 - Prueba de GitKraken
+
+- Prueba 2
